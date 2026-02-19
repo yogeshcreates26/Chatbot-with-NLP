@@ -73,7 +73,3 @@ P4-Implementation-of-Chatbot-using-NLP/
 - Use advanced **transformer models** like BERT or GPT for more sophisticated responses.
 - Deploy the chatbot as a **web or mobile application** for enhanced accessibility.
 
-
-## **Contributors**
-
-- [Mehul Mangal](https://github.com/Mehulmm)  
